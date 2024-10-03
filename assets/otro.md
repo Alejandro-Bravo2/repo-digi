@@ -4,7 +4,7 @@
 
 # Ventajas y Desventajas de la tortilla española
 
-![tortilla](https://www.pequerecetas.com/receta/tortilla-de-patatas/)
+![tortilla](https://comedelahuerta.com/wp-content/uploads/2020/10/Tortilla-de-Patata-scaled.jpg)
 
 Ventajas:
 - **Contiene fibra**: La tortilla es una buena fuente de fibra, pero a diferencia de otros alimentos que también la tienen, como el pan o los cereales, esta fibra no contiene otros ingredientes que promuevan el aumento de peso. La fibra ayuda a mejorar las funciones gastrointestinales del organismo.
