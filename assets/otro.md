@@ -4,6 +4,6 @@
 
 # Video de como hacer una tortilla española
 
-[![Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=pvlkYYdIBV0)]
+[![](http://img.youtube.com/vi/NxYITudzHlc/0.jpg)](https://www.youtube.com/watch?v=NxYITudzHlc "")
 - Fotos
 - Videos
