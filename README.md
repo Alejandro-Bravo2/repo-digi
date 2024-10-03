@@ -12,7 +12,7 @@ La tortilla es una comida tipica de españa la cual puede tener muchas variantes
 * 1 cebolla grande
 * Sal a gusto
 
-  [![Tortilla de patatas](/home/alejandoro/Descargas/tortilla-de-patatas-española.jpeg "Tortillita)
+  [! [ Tortilla de patatas ] ( /home/alejandoro/Descargas/tortilla-de-patatas-española.jpeg "Tortillita )
 * [enlace a la otra página](assets/otro.md)
 
   ![Descripción de la imágen](assets/mano.png)
