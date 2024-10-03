@@ -2,8 +2,10 @@
 
 [Volver atrás](../README.md)
 
-# Video de como hacer una tortilla española
+# Ventajas y Desventajas de la tortilla española
 
-[![](http://img.youtube.com/vi/NxYITudzHlc/0.jpg)](https://www.youtube.com/watch?v=NxYITudzHlc "")
+[![](https://www.pequerecetas.com/receta/tortilla-de-patatas/)
+
+Ventajas
 - Fotos
 - Videos
