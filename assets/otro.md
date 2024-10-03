@@ -2,7 +2,7 @@
 
 [Volver atrás](../README.md)
 
-# Ventajas y Desventajas de la tortilla española
+# Ventajas de la tortilla española
 
 ![tortilla](https://comedelahuerta.com/wp-content/uploads/2020/10/Tortilla-de-Patata-scaled.jpg)
 
