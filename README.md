@@ -12,7 +12,6 @@ La tortilla es una comida tipica de españa la cual puede tener muchas variantes
 * 1 cebolla grande
 * Sal a gusto
 
-![](https://cdn.elcocinerocasero.com/imagen/paso-receta/1000/2022-06-15-19-06-12/tortilla-de-patata-paso-5.jpeg){width='100px'}
-* [enlace a la otra página](assets/otro.md)
+![Tortilla](https://cdn.elcocinerocasero.com/imagen/paso-receta/1000/2022-06-15-19-06-12/tortilla-de-patata-paso-5.jpeg)
+* [Enlace a video de como hacer la tortilla española](assets/otro.md)
 
-  ![Descripción de la imágen](assets/mano.png)
