@@ -6,7 +6,7 @@
 
 ![tortilla](https://comedelahuerta.com/wp-content/uploads/2020/10/Tortilla-de-Patata-scaled.jpg)
 
-Ventajas:
+### Ventajas:
 - **Contiene fibra**: La tortilla es una buena fuente de fibra, pero a diferencia de otros alimentos que también la tienen, como el pan o los cereales, esta fibra no contiene otros ingredientes que promuevan el aumento de peso. La fibra ayuda a mejorar las funciones gastrointestinales del organismo.
 - **Fuente de calcio**: La tortilla es una buena fuente de fibra, pero a diferencia de otros alimentos que también la tienen, como el pan o los cereales, esta fibra no contiene otros ingredientes que promuevan el aumento de peso. La fibra ayuda a mejorar las funciones gastrointestinales del organismo.
 - **Ácido Folico**: La tortilla, además de ser deliciosa, aporta una buena cantidad de ácido fólico al organismo. Esta vitamina es obligada en la dieta de las embarazadas pues ayuda a la formación de sistema nervioso del bebé.
