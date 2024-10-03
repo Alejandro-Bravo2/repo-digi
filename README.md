@@ -2,7 +2,7 @@
 
 ## TORTILLA
 
-La tortilla es una comida tipica de españa la cual puede tener muchas variantes
+La tortilla de patatas o española, es uno de los platos más conocidos y emblemáticos de la cocina española. 
 
 ## Receta
 
